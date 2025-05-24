@@ -19,3 +19,6 @@ let student = new Person("John Doe", 18, 'Male', false)
 
 
 student.studentCheck()
+
+
+fruitItems = []
